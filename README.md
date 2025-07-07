@@ -4,7 +4,7 @@ A fun and interactive memory matching game built with **React**. Flip the cards,
 
 ## 🔗 Live Demo
 
-👉 [Play the Game](https://your-deployed-url.netlify.app)  
+👉 [Play the Game]([https://your-deployed-url.netlify.app](https://pairpop57.netlify.app/))  
 *(Replace with your actual Netlify or deployment link)*
 
 ## 🚀 Features
